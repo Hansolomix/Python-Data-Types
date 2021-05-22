@@ -44,12 +44,11 @@ x = 1+2j
 print(type(x))
 
 '''
-Sequence Type ( List , Turple , Range )
+Sequence Type ( List , Tuple , Range )
 '''
 # list ===  starts with [ ]
 # homogeneous
 
-x = []
 x = [ 10 , 2.5 , 'hello' ]
 print(x[1])
 print(x[1:3])
